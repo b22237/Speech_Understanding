@@ -1,0 +1,12 @@
+# Data Processing and Visualization
+pandas
+matplotlib
+seaborn
+
+# Audio Processing and Machine Learning
+torch
+torchaudio
+datasets
+
+# Ethical Validation and Metrics
+frechet_audio_distance

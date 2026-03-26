@@ -1,0 +1,5 @@
+experiment_name: "improved_dynamic_lambdas"
+use_dynamic_loss: true
+batch_size: 64
+epochs: 50
+learning_rate: 0.001
